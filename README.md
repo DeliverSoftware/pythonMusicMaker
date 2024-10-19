@@ -65,5 +65,5 @@ Feel free to contribute to the project by submitting issues or pull requests. An
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact hello at nusu dot app.
 
